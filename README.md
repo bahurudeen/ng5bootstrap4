@@ -4,13 +4,13 @@ This application was built with Angular 5 and Bootstrap 4.
 
 # Requirements.
 
-•	node 
-•	npm
+node 
+npm
 
 # Installation
 
-•	Clone the repository
-•	Install the application: `npm install`
+Clone the repository
+Install the application: `npm install`
 
 ## Development server
 
